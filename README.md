@@ -1,8 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew! <br/><a href="https://linkedin.com/in/r-andrew-ochoa">IT Professional</a>, <a>Building a Career in Cybersecurity</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="r-andrew-ochoa | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/r-andrew-ochoa
+
+
+
 
 <!--
-**r-andrew-ochoa/r-andrew-ochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
