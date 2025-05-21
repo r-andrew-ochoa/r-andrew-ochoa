@@ -1,6 +1,7 @@
 <h1>Hi, I'm Andrew! <br/><a href="https://linkedin.com/in/r-andrew-ochoa">IT Professional</a>, <a>Building a Career in Cybersecurity</a></h1>
 
 <h2>👨‍💻  IT / Cybersecurity Projects:</h2>
+
 - [Linux Homelab Setup](https://github.com/r-andrew-ochoa/LinuxHomeLabSetup)
 
 <h2> 🤳 Connect with me:</h2>
